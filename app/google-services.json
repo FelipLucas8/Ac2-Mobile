@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "421094473153",
+    "firebase_url": "https://projeto-mobile-7b0eb-default-rtdb.firebaseio.com",
+    "project_id": "projeto-mobile-7b0eb",
+    "storage_bucket": "projeto-mobile-7b0eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421094473153:android:70649bdb8ce6b6d1d14340",
+        "android_client_info": {
+          "package_name": "com.example.mobileac2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCuKikrDKNqlsVm9iXEYY1aqW2jmgOC0pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
